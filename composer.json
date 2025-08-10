@@ -1,5 +1,5 @@
 {
-    "name": "bdbulksms.net/bdbulksms-OTP-API",
+    "name": "bdbulksms.net/bdbulksms-otp-api",
     "type": "library",
     "description": "Logging for PHP 8.0",
     "keywords": ["log","logging"],
